@@ -1,5 +1,6 @@
 # This file is used to store permissions of overlay files; do not remove
 # <name>                                 <type>  <mode> <uid> <gid>
-/etc/hostname                            0777    0644   0     0
-/etc/init/ttyS0.conf                     0777    0644   0     0
-/etc/shadow                              0777    0644   0     0
+/etc/hostname                            -       0644   0     0
+/etc/init/ttyS0.conf                     -       0644   0     0
+/etc/shadow                              -       0644   0     0
+/etc/default/locale                      -       0644   0     0
